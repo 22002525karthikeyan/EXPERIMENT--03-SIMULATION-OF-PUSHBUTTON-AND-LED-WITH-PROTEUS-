@@ -109,7 +109,8 @@ int main(void)
 
 ## Output screen shots of proteus  :
 ![](pmc-ex-3-1.jpg)
- ![](pmc-ex-3-2.jpg)
+
+![](pmc-ex-3-2.jpg)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
